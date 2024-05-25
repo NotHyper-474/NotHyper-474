@@ -2,7 +2,10 @@ Hi, I'm a brazillian that codes for fun.
 
 I have the most experience with C# but I've also coded in C/C++, JavaScript, Python.
 
-[Stats](https://github-readme-stats.vercel.app/api?username=NotHyper-474)
+<picture>
+  <source=
+"https://github-readme-stats.vercel.app/api?username=NotHyper-474"/>
+</picture>
 
 
 
