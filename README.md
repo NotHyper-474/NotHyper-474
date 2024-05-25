@@ -5,10 +5,9 @@ I have the most experience with C# but I've also coded in C/C++, JavaScript, Pyt
 <picture>
   <source srcset=
 "https://github-readme-stats.vercel.app/api?username=NotHyper-474"
-  media="(min-width: 25%)"
+  media="(min-width: 25%)">
 
   <img src="https://github-readme-stats.vercel.app/api?username=NotHyper-474"/>
->
 
 </picture>
 
