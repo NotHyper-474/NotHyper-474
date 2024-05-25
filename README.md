@@ -1,13 +1,13 @@
 Hi, I'm a brazillian that codes for fun.
 
-I have the most experience with C# but I've also coded in C/C++, JavaScript, Python.
+I have the most experience with C# but I've also coded in C/C++, JavaScript, Python and Ruby.
 
 <picture>
   <source srcset=
 "https://github-readme-stats.vercel.app/api?username=NotHyper-474"
   media="(min-width: 25%)">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NotHyper-474"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NotHyper-474&prefer-dark-theme=true"/>
 
 </picture>
 
