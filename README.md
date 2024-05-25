@@ -3,8 +3,7 @@ Hi, I'm a brazillian that codes for fun.
 I have the most experience with C# but I've also coded in C/C++, JavaScript, Python.
 
 <picture>
-  <source
-   srcset=
+  <source srcset=
 "https://github-readme-stats.vercel.app/api?username=NotHyper-474"/>
 </picture>
 
