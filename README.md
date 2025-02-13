@@ -1,6 +1,6 @@
-Hi, I'm a brazillian that codes for fun.
+Hi, I'm a brazillian who codes for fun.
 
-I have the most experience with C# but I've also coded in C/C++, JavaScript, Python and Ruby.
+I have the most experience with C# but I've also coded in C/C++, Haxe, JavaScript, Python and Ruby.
 
 <picture>
   <source srcset=
